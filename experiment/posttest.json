@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Hypoglycemia is,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Blood glucose level greater than 90-130mg/dl",
+        "b": "Blood glucose level greater than 180mg/dl",
+        "c": "Blood glucose level drops below 70mg/dl",
+        "d": "Blood glucose level drops below 100mg/dl"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  Ortho toluidine is a",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Oxygen acceptor",
+        "b": "Hydrogen acceptor",
+        "c": "Oxygen donor",
+        "d": "Hydrogen donor"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.  Glucose oxidase reagent is a mixture of",
+      "answers": {
+        "a": "Glucose oxidase, glucose and ortho - toludine",
+        "b": "Glucose oxidase, ortho - toluidine and hydrogen peroxide",
+        "c": "Glucose oxidase, ortho - toluidine and peroxidase",
+        "d": "Glucose oxidase, glucose  and hydrogen peroxide"
       },
+          
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+
+      {
+        "question": "4.  Blood is collected in EDTA bottle because ",
+        "answers": {
+          "a": "To decontaminate blood",
+          "b": "EDTA is an anticoagulant",
+          "c": "To increase the density of blood",
+          "d": "To avoid reaction with other chemicals"
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
